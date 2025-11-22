@@ -34,7 +34,7 @@ jobs:
             - name: Build site
               run: |
                   cd portfolio
-                  yarn build
+                  PREFIX_PATHS=true yarn build
 
             - name: Create .nojekyll file
               run: |
