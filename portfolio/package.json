@@ -9,7 +9,8 @@
         "serve": "gatsby serve",
         "clean": "gatsby clean",
         "test": "echo \"Nothing to test here\"",
-        "lint": "echo \"Nothing to do here\""
+        "lint": "echo \"Nothing to do here\"",
+        "deploy": "gatsby build && gh-pages -d public -b gh-pages"
     },
     "dependencies": {
         "gatsby": "^5.0.1",

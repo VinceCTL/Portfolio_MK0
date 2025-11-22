@@ -1,10 +1,11 @@
 module.exports = {
+    pathPrefix: '/Portfolio_MK0',
     plugins: [
         {
             resolve: 'gatsby-theme-portfolio-minimal',
             options: {
                 // siteUrl: "https://example.com", // Used for sitemap generation
-                siteUrl: 'https://your-portfolio.netlify.app/', // Used for sitemap generation
+                siteUrl: 'https://vincectl.github.io/Portfolio_MK0/', // Used for sitemap generation
                 manifestSettings: {
                     favicon: './content/images/favicon.png', // Path is relative to the root
                     siteName: 'Full Stack TypeScript Developer', // Used in manifest.json
