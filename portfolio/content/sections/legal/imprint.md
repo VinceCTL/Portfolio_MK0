@@ -9,7 +9,7 @@ Vincent Casteldaccia<br />
 [Your City]<br />
 Australia
 
-E-Mail Address: <u>your.email@example.com</u>
+E-Mail Address: <u>vincent.casteldaccia.jr@gmail.com</u>
 
 ---
 
