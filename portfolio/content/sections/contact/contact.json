@@ -1,0 +1,13 @@
+{
+    "name": "Full Stack TypeScript Developer",
+    "email": "your.email@example.com",
+    "description": "Open to remote opportunities worldwide! Based in Australia (AEST/AEDT), I'm available for full-time, part-time, or freelance projects. Let's discuss how I can help bring your ideas to life with TypeScript, Angular, React, and Next.js.",
+    "image": {
+        "src": "../../images/favicon.png",
+        "alt": "Contact"
+    },
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}

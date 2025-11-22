@@ -1,0 +1,22 @@
+{
+    "intro": "Hello",
+    "heroPhoto": {
+        "src": "../../images/lego-dummy.png",
+        "alt": "Professional Photo"
+    },
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "Full Stack TypeScript Developer",
+    "subtitle": {
+        "prefix": "Angular enthusiast, ",
+        "highlight": "React/Next.js",
+        "suffix": " versatile"
+    },
+    "description": "Passionate about building scalable applications with TypeScript, Angular, and React/Next.js. Based in Australia (AEST/AEDT), available for remote opportunities worldwide.",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}

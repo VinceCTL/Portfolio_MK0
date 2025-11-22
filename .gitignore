@@ -1,0 +1,51 @@
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+build
+public
+**/public
+**/build
+
+# development
+.cache
+**/.cache
+.husky
+.vscode
+
+# Gatsby generated files
+.cache/
+public/
+**/.cache/
+**/public/
+
+# misc
+.DS_Store
+**/.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store

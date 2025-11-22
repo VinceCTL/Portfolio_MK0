@@ -1,0 +1,40 @@
+{
+    "siteMetadata": {
+        "language": "en",
+        "siteUrl": "https://your-portfolio.netlify.app/",
+        "thumbnail": "../content/images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "title": "Full Stack TypeScript Developer Portfolio",
+        "titleTemplate": "%s · Full Stack Developer",
+        "description": "Full Stack TypeScript Developer (Angular, React/Next.js) - Remote Developer based in Australia. Available for remote opportunities worldwide. Specialized in TypeScript, Angular, React, Next.js, and Node.js.",
+        "author": "Your Name",
+        "avatar": "../content/images/gatsby.png",
+        "bio": "Full Stack TypeScript Developer passionate about Angular and versatile with React/Next.js. Based in Australia, open to remote opportunities worldwide. I build scalable applications with modern technologies and best practices.",
+        "social": {
+            "github": "https://github.com/your-username",
+            "linkedin": "https://www.linkedin.com/in/your-profile/",
+            "mail": "mailto:your.email@example.com"
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "text": "Vincent \n Casteldaccia" },
+        "navigation": {
+            "header": [
+                { "label": "About", "url": "/#about" },
+                { "label": "Projects", "url": "/#projects" },
+                { "label": "Skills", "url": "/#skills" },
+                { "label": "Contact", "url": "/#contact" },
+                { "label": "blog", "url": "/blog" }
+            ],
+            "ctaButton": { "openNewTab": true, "label": "Download CV", "url": "/resume.pdf" },
+            "footer": [
+                { "label": "Privacy", "url": "/privacy" },
+                { "label": "Imprint", "url": "/imprint" }
+            ]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": true,
+            "useCookieBar": false
+        }
+    }
+}

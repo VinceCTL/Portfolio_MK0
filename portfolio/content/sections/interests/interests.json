@@ -1,0 +1,65 @@
+{
+    "interests": [
+        {
+            "label": "TypeScript",
+            "image": {
+                "src": "../../images/js.png",
+                "alt": "TypeScript"
+            }
+        },
+        {
+            "label": "Angular",
+            "image": {
+                "src": "../../images/gem-stone.png",
+                "alt": "Angular"
+            }
+        },
+        {
+            "label": "React",
+            "image": {
+                "src": "../../images/react.png",
+                "alt": "React"
+            }
+        },
+        {
+            "label": "Next.js",
+            "image": {
+                "src": "../../images/gatsby.png",
+                "alt": "Next.js"
+            }
+        },
+        {
+            "label": "Node.js",
+            "image": {
+                "src": "../../images/high-voltage.png",
+                "alt": "Node.js"
+            }
+        },
+        {
+            "label": "Git",
+            "image": {
+                "src": "../../images/wrench.png",
+                "alt": "Git"
+            }
+        },
+        {
+            "label": "Remote Work",
+            "image": {
+                "src": "../../images/mobile-phone.png",
+                "alt": "Remote Work"
+            }
+        },
+        {
+            "label": "Full Stack",
+            "image": {
+                "src": "../../images/notebook.png",
+                "alt": "Full Stack Development"
+            }
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 6
+    }
+}
