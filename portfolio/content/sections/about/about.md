@@ -3,7 +3,7 @@ imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
 imageAlt: 'Full Stack TypeScript Developer'
 ---
 
-I'm a **Full Stack TypeScript Developer** with a passion for building modern, scalable web applications. My expertise lies in creating robust frontend and backend solutions using cutting-edge technologies.
+I'm **Vincent Casteldaccia**, a **Full Stack TypeScript Developer** with a passion for building modern, scalable web applications. My expertise lies in creating robust frontend and backend solutions using cutting-edge technologies. I specialize in delivering high-quality code that is maintainable, performant, and user-focused.
 
 ## My Stack
 
@@ -22,9 +22,11 @@ I'm a **Full Stack TypeScript Developer** with a passion for building modern, sc
 
 **Tools & Practices:**
 
--   Git, npm/yarn, Webpack, Vite
--   Code reviews, testing, CI/CD
--   Agile methodologies, remote collaboration
+-   **Version Control**: Git, GitHub/GitLab workflows
+-   **Build Tools**: npm/yarn, Webpack, Vite, Angular CLI
+-   **Testing**: Unit testing, E2E testing, Test-Driven Development
+-   **DevOps**: CI/CD pipelines, Docker, cloud deployment
+-   **Methodologies**: Agile, Scrum, remote collaboration, code reviews
 
 ## Remote Work
 

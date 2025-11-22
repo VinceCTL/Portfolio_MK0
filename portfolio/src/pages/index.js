@@ -13,7 +13,10 @@ import {
 export default function IndexPage() {
     return (
         <>
-            <Seo title="Full Stack TypeScript Developer - Remote Developer Australia" />
+            <Seo
+                title="Vincent Casteldaccia - Full Stack TypeScript Developer | Angular & React Specialist"
+                description="Full Stack TypeScript Developer specializing in Angular and React/Next.js. Based in Australia, available for remote opportunities worldwide. Expert in building scalable web applications."
+            />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
                 <AboutSection sectionId="about" heading="About Me" />

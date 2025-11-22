@@ -3,18 +3,18 @@
         {
             "visible": true,
             "category": "🚀 TypeScript / Angular Project",
-            "title": "Your Project Title",
-            "description": "A detailed description of your project. Explain the context, what problem it solves, the technologies used (TypeScript, Angular, etc.), challenges you faced, and the results achieved. This demonstrates your technical skills and problem-solving abilities.",
-            "tags": ["TypeScript", "Angular", "Node.js", "Full Stack"],
+            "title": "Enterprise Angular Application",
+            "description": "A scalable enterprise application built with Angular and TypeScript. Features include real-time data synchronization, advanced state management with NgRx, comprehensive testing suite, and responsive design. The application handles complex business logic while maintaining clean architecture and code quality. Implemented lazy loading, route guards, and custom directives for optimal performance.",
+            "tags": ["TypeScript", "Angular", "NgRx", "RxJS", "Jasmine", "Karma"],
             "image": {
                 "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-                "alt": "Project Screenshot",
+                "alt": "Angular Enterprise Application",
                 "linkTo": "https://your-project-demo.com"
             },
             "links": [
                 {
                     "type": "github",
-                    "url": "https://github.com/your-username/your-project"
+                    "url": "https://github.com/your-username/angular-enterprise-app"
                 },
                 {
                     "type": "external",
@@ -25,34 +25,51 @@
         {
             "visible": true,
             "category": "⚛️ React / Next.js Project",
-            "title": "Your React/Next.js Project",
-            "description": "Describe your React or Next.js project here. Highlight your versatility with different frameworks. Mention the stack (TypeScript, React, Next.js, etc.), key features, and what you learned from building it.",
-            "tags": ["TypeScript", "React", "Next.js", "Full Stack"],
+            "title": "Modern Next.js Portfolio & Blog",
+            "description": "A high-performance portfolio website built with Next.js, TypeScript, and Tailwind CSS. Features include server-side rendering, static site generation, blog functionality with MDX, dark mode support, and optimized images. The site achieves excellent Lighthouse scores and provides a seamless user experience across all devices.",
+            "tags": ["TypeScript", "React", "Next.js", "Tailwind CSS", "MDX", "SSG"],
             "image": {
                 "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-                "alt": "React Project Screenshot"
+                "alt": "Next.js Portfolio Application"
             },
             "links": [
                 {
                     "type": "github",
-                    "url": "https://github.com/your-username/your-react-project"
+                    "url": "https://github.com/your-username/nextjs-portfolio"
                 }
             ]
         },
         {
-            "visible": false,
+            "visible": true,
             "category": "💻 Full Stack Project",
-            "title": "Your Full Stack Project",
-            "description": "Template for another project. Set visible to true when ready. Describe the full stack architecture, technologies used on both frontend and backend, and the overall solution.",
-            "tags": ["TypeScript", "Angular", "Node.js", "PostgreSQL"],
+            "title": "RESTful API with Node.js & TypeScript",
+            "description": "A robust RESTful API built with Node.js, Express, and TypeScript. Features include JWT authentication, role-based access control, comprehensive error handling, database migrations, and API documentation with Swagger. The backend supports real-time features with WebSockets and integrates with multiple third-party services.",
+            "tags": ["TypeScript", "Node.js", "Express", "PostgreSQL", "JWT", "Swagger"],
             "image": {
                 "src": "../../images/gatsby.png",
-                "alt": "Full Stack Project"
+                "alt": "Node.js API Backend"
             },
             "links": [
                 {
                     "type": "github",
-                    "url": "https://github.com/your-username/your-fullstack-project"
+                    "url": "https://github.com/your-username/nodejs-api"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "🔄 Full Stack TypeScript",
+            "title": "Real-time Collaboration Platform",
+            "description": "A full-stack TypeScript application enabling real-time collaboration. Built with Angular on the frontend and Node.js on the backend, featuring WebSocket integration for live updates, file uploads, user management, and collaborative editing. Implements proper error boundaries, optimistic UI updates, and offline support.",
+            "tags": ["TypeScript", "Angular", "Node.js", "WebSockets", "MongoDB", "Socket.io"],
+            "image": {
+                "src": "../../images/notebook.png",
+                "alt": "Real-time Collaboration Platform"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/your-username/collaboration-platform"
                 }
             ]
         }
