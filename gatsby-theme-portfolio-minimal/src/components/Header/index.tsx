@@ -66,9 +66,11 @@ export function Header(): React.ReactElement {
             {/* Make background blurry when sidebar is opened */}
             <Helmet bodyAttributes={{ class: open ? classes.Blurred : undefined }} />
             <Animation className={classes.ContentWrapper} type="fadeDown">
-                <Link to="/" aria-label="home">
-                    <Logo fontSize="2rem" color="var(--primary-color" />
-                </Link>
+                <div style={{ marginRight: '2rem' }}>
+                    <Link to="/" aria-label="home">
+                        <Logo fontSize="2rem" color="var(--primary-color" />
+                    </Link>
+                </div>
                 {isDesktopBreakpoint ? topNavigationBar : sideNavigationBar}
             </Animation>
         </header>
