@@ -2,76 +2,69 @@
     "projects": [
         {
             "visible": true,
-            "category": "🚀 TypeScript / Angular Project",
-            "title": "Enterprise Angular Application",
-            "description": "A scalable enterprise application built with Angular and TypeScript. Features include real-time data synchronization, advanced state management with NgRx, comprehensive testing suite, and responsive design. The application handles complex business logic while maintaining clean architecture and code quality. Implemented lazy loading, route guards, and custom directives for optimal performance.",
-            "tags": ["TypeScript", "Angular", "NgRx", "RxJS", "Jasmine", "Karma"],
+            "category": "⚛️ Full-Stack TypeScript Platform",
+            "title": "Oward - Full-Stack Platform & Mobile App",
+            "description": "Led full-stack development of a comprehensive TypeScript platform with React, Next.js (SSR), and Loopback backend. Developed and maintained PostgreSQL database with TypeORM, implemented comprehensive testing with Jest, and created TypeScript scripts for robots.txt optimization. Significantly improved SEO strategy and online visibility. Built and launched a cross-platform mobile application using React Native (iOS, Android & PWA), delivering a seamless user experience across all platforms.",
+            "tags": [
+                "TypeScript",
+                "React",
+                "Next.js",
+                "SSR",
+                "Loopback",
+                "PostgreSQL",
+                "TypeORM",
+                "React Native",
+                "Jest",
+                "SEO"
+            ],
+            "image": {
+                "src": "../../images/react.png",
+                "alt": "Oward Full-Stack Platform"
+            }
+        },
+        {
+            "visible": true,
+            "category": "📱 Mobile & PWA Development",
+            "title": "LSA - Restaurant Ordering Mobile App",
+            "description": "Developed a complete Android mobile and PWA ordering application for restaurant staff using Capacitor with Angular 17. Managed the entire project lifecycle from conception to delivery, working closely with the client to ensure requirements were met. Built a robust GraphQL backend with Hasura, enabling real-time order management and seamless data synchronization. The application improved operational efficiency for restaurant staff.",
+            "tags": ["Angular 17", "Capacitor", "PWA", "GraphQL", "Hasura", "TypeScript", "Project Management"],
+            "image": {
+                "src": "../../images/mobile-phone.png",
+                "alt": "Restaurant Mobile App"
+            }
+        },
+        {
+            "visible": true,
+            "category": "🚀 Enterprise Angular Application",
+            "title": "Ata-Electronics - Complete Platform Redesign",
+            "description": "Executed a complete frontend redesign and architecture overhaul for an enterprise application using Angular 16. Created new pages, components, and established a scalable project architecture. Implemented bug fixes and performance optimizations. Developed robust backend solutions with Node.js and vanilla MySQL, deployed on AWS infrastructure. Delivered a modern, maintainable codebase that improved both user experience and developer productivity.",
+            "tags": ["Angular 16", "TypeScript", "Node.js", "MySQL", "AWS", "Architecture", "Redesign"],
             "image": {
                 "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-                "alt": "Angular Enterprise Application",
-                "linkTo": "https://your-project-demo.com"
-            },
-            "links": [
-                {
-                    "type": "github",
-                    "url": "https://github.com/your-username/angular-enterprise-app"
-                },
-                {
-                    "type": "external",
-                    "url": "https://your-project-demo.com"
-                }
-            ]
+                "alt": "Enterprise Angular Application"
+            }
         },
         {
             "visible": true,
-            "category": "⚛️ React / Next.js Project",
-            "title": "Modern Next.js Portfolio & Blog",
-            "description": "A high-performance portfolio website built with Next.js, TypeScript, and Tailwind CSS. Features include server-side rendering, static site generation, blog functionality with MDX, dark mode support, and optimized images. The site achieves excellent Lighthouse scores and provides a seamless user experience across all devices.",
-            "tags": ["TypeScript", "React", "Next.js", "Tailwind CSS", "MDX", "SSG"],
+            "category": "🔍 SEO & Performance Optimization",
+            "title": "JFVELEC - SEO Strategy & Next.js Optimization",
+            "description": "Provided comprehensive SEO consulting services including competitive analysis, strategy research and development, and performance monitoring. Optimized and modified an existing Next.js project to significantly improve search engine rankings. Conducted thorough technical audits, implemented SEO best practices, and delivered measurable improvements in organic visibility and website performance.",
+            "tags": ["SEO", "Next.js", "Performance", "Strategy", "Analytics", "Optimization"],
             "image": {
                 "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-                "alt": "Next.js Portfolio Application"
-            },
-            "links": [
-                {
-                    "type": "github",
-                    "url": "https://github.com/your-username/nextjs-portfolio"
-                }
-            ]
+                "alt": "SEO Optimization Project"
+            }
         },
         {
             "visible": true,
-            "category": "💻 Full Stack Project",
-            "title": "RESTful API with Node.js & TypeScript",
-            "description": "A robust RESTful API built with Node.js, Express, and TypeScript. Features include JWT authentication, role-based access control, comprehensive error handling, database migrations, and API documentation with Swagger. The backend supports real-time features with WebSockets and integrates with multiple third-party services.",
-            "tags": ["TypeScript", "Node.js", "Express", "PostgreSQL", "JWT", "Swagger"],
+            "category": "⚛️ React Enterprise Development",
+            "title": "FDJ United - React Feature Development",
+            "description": "Developed new features and resolved critical bugs for a large-scale React application integrated with Drupal CMS. Worked with TypeScript to ensure type safety and code quality. Collaborated with cross-functional teams to deliver high-quality solutions that met business requirements. Maintained and improved existing codebase while implementing modern React best practices.",
+            "tags": ["React", "TypeScript", "Drupal", "Enterprise", "Feature Development"],
             "image": {
                 "src": "../../images/gatsby.png",
-                "alt": "Node.js API Backend"
-            },
-            "links": [
-                {
-                    "type": "github",
-                    "url": "https://github.com/your-username/nodejs-api"
-                }
-            ]
-        },
-        {
-            "visible": true,
-            "category": "🔄 Full Stack TypeScript",
-            "title": "Real-time Collaboration Platform",
-            "description": "A full-stack TypeScript application enabling real-time collaboration. Built with Angular on the frontend and Node.js on the backend, featuring WebSocket integration for live updates, file uploads, user management, and collaborative editing. Implements proper error boundaries, optimistic UI updates, and offline support.",
-            "tags": ["TypeScript", "Angular", "Node.js", "WebSockets", "MongoDB", "Socket.io"],
-            "image": {
-                "src": "../../images/notebook.png",
-                "alt": "Real-time Collaboration Platform"
-            },
-            "links": [
-                {
-                    "type": "github",
-                    "url": "https://github.com/your-username/collaboration-platform"
-                }
-            ]
+                "alt": "React Enterprise Application"
+            }
         }
     ],
     "button": {

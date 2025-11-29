@@ -1,7 +1,7 @@
 {
     "intro": "Hello, I'm",
     "heroPhoto": {
-        "src": "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg",
+        "src": "../../images/MemojiPP.jpeg",
         "alt": "Vincent Casteldaccia - Full Stack Developer"
     },
     "image": {
@@ -14,7 +14,7 @@
         "highlight": "Angular & React/Next.js",
         "suffix": " Specialist"
     },
-    "description": "Passionate about building scalable applications with TypeScript, Angular, and React/Next.js. Based in Australia (AEST/AEDT), available for remote opportunities worldwide. Let's build something amazing together!",
+    "description": "Full-Stack Developer specialized in TypeScript with over 5 years of experience. Expert in Angular, React/Next.js, mobile development (Capacitor, React Native) and SEO. Based in Australia (AEST/AEDT), available for remote opportunities worldwide. Let's transform your ideas into high-performing, optimized applications!",
     "socialProfiles": {
         "from": ["LinkedIn", "Github", "Mail"],
         "showIcons": true
